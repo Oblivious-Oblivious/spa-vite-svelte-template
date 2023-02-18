@@ -22,7 +22,7 @@
     </div>
     
     <p class="read-the-docs">
-        Click on the Vite and Svelte logos to learn more
+        Click on the Vite and Svelte logos to learn more      okokokokokokokokokok
     </p>
 </main>
 
